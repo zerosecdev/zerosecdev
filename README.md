@@ -30,7 +30,7 @@ I am a dedicated self-learner. I have studied how operating systems, memory, and
 ---
 
 ### 📡 Links
-* 💼 **LinkedIn:** [Malik Shoaib](#) (Will create it soon! after few projects)
+* 💼 **LinkedIn:** [Malik Shoaib](https://www.linkedin.com/in/malik-shoaib-376299407?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 * 📝 **Medium:** [Read my Engineering Articles](#) (I will start writing soon!)
 
 > *"Most people can write code. Very few can build a system that won't fall apart under its own weight."*
